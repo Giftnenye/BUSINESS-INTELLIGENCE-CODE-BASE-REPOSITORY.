@@ -1,0 +1,15 @@
+Field,Lower_fence,Upper_fence,Flagged_records,Flagged_percentage
+Customer_Age,24.5,68.5,2,0.02
+Dependent_count,-2.0,6.0,0,0.0
+Months_on_book,17.5,53.5,386,3.81
+Total_Relationship_Count,0.0,8.0,0,0.0
+Months_Inactive_12_mon,0.5,4.5,331,3.27
+Contacts_Count_12_mon,0.5,4.5,629,6.21
+Credit_Limit,-10213.75,23836.25,984,9.72
+Total_Revolving_Bal,-1778.5,3921.5,0,0.0
+Avg_Open_To_Buy,-11477.25,22660.75,963,9.51
+Total_Amt_Chng_Q4_Q1,0.28900000000000003,1.201,396,3.91
+Total_Trans_Amt,-1722.75,8619.25,896,8.85
+Total_Trans_Ct,-9.0,135.0,2,0.02
+Total_Ct_Chng_Q4_Q1,0.22799999999999998,1.172,394,3.89
+Avg_Utilization_Ratio,-0.697,1.2229999999999999,0,0.0

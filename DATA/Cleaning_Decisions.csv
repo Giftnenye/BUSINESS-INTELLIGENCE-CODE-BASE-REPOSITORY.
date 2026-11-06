@@ -1,0 +1,10 @@
+Area,Action and reason
+Blank cells,No imputation because no blank cells were found.
+Unknown demographics,Retained Unknown; added a flag rather than guess personal information.
+Duplicate records,No removal because rows and customer IDs were unique.
+Invalid values,No numeric correction because implemented validity checks passed.
+Outliers,Retained IQR flags because statistical extremeness is not proof of error.
+Category labels,Trimmed surrounding spaces; no observed values needed correction.
+Classifier outputs,Removed two precomputed model-output columns.
+Customer ID,Converted CLIENTNUM to text because it is an identifier.
+Analytical fields,Added six documented fields for grouping and later analysis.

@@ -1,0 +1,9 @@
+,Flagged_values_or_records
+Negative numeric measurements,0
+Ages outside 18 to 110,0
+Noninteger ages,0
+Records with fractional counts,0
+Nonpositive credit limits,0
+Inactive months outside 0 to 12,0
+Utilisation outside 0 to 1,0
+Revolving balances above credit limits,0

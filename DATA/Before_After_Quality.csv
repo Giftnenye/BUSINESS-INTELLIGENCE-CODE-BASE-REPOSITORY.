@@ -1,0 +1,9 @@
+Check,Before,After
+Customer records,10127,10127
+Columns,23,27
+Blank cells,0,0
+Duplicate rows,0,0
+Duplicate customer IDs,0,0
+Unknown source demographic cells,3380,3380
+Customers with any Unknown,3046,3046
+Precomputed classifier columns,2,0

@@ -1,0 +1,7 @@
+Field,Definition
+Age_Band,Under 35; 35 to 44; 45 to 54; 55 to 64; 65 and above.
+Income_Segment,Below $40K; $40K to below $80K; $80K and above; Unknown.
+Utilization_Category,Zero = 0; Low > 0 and < 0.30; Moderate >= 0.30 and < 0.60; High >= 0.60 and <= 1.
+Transaction_Frequency_Category,Low < 50; Moderate 50 to 79; High >= 80 recorded transactions.
+Churn_Flag,Observed outcome: Existing Customer = 0; Attrited Customer = 1.
+Has_Unknown_Demographics,"1 if any source education, marital status, or income is Unknown; otherwise 0."
